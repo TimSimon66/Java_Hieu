@@ -1,0 +1,10 @@
+1. Are variable names spelled correctly and consistently? 
+2. Write how to install, use and include necessary comments to use the system 
+3. Add comments and explanations to important code snippets. 
+4. Are there any spelling or grammar errors in the displayed results? 
+5. Clearly define what the program takes as input and what it does production as output . 
+6. Can the algorithm handle large data? 
+7. Does the algorithm give the required results? 
+8. Write code that is clearly structured and easy to understand easy to read and maintain. 
+9. Is the interface wrong? 
+10. Ensure the program is compatible with many different systems environment. 
